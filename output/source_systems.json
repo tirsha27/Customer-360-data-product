@@ -1,0 +1,50 @@
+[
+  {
+    "name": "CRM",
+    "type": "OLTP",
+    "description": "Customer Relationship Management System",
+    "tables": [
+      {
+        "name": "customers",
+        "description": "Customer master data",
+        "attributes": [
+          {
+            "name": "customer_id",
+            "type": "string",
+            "description": "Unique identifier for customers"
+          },
+          {
+            "name": "customer_name",
+            "type": "string",
+            "description": "Full name of customer"
+          },
+          {
+            "name": "email",
+            "type": "string",
+            "description": "Email address"
+          },
+          {
+            "name": "phone",
+            "type": "string",
+            "description": "Phone number"
+          },
+          {
+            "name": "address",
+            "type": "string",
+            "description": "Physical address"
+          },
+          {
+            "name": "segment",
+            "type": "string",
+            "description": "Customer segment"
+          },
+          {
+            "name": "created_date",
+            "type": "date",
+            "description": "Date when customer was created"
+          }
+        ]
+      }
+    ]
+  }
+]

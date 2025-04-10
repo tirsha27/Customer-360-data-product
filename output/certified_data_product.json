@@ -1,0 +1,218 @@
+{
+  "product_type": "analytical",
+  "schema": [
+    {
+      "name": "customer_id",
+      "type": "string",
+      "description": "Unique identifier for customer",
+      "required": true
+    },
+    {
+      "name": "customer_name",
+      "type": "string",
+      "description": "Name of the customer",
+      "required": false
+    },
+    {
+      "name": "product_id",
+      "type": "string",
+      "description": "Unique identifier for product",
+      "required": true
+    },
+    {
+      "name": "product_name",
+      "type": "string",
+      "description": "Name of the product",
+      "required": false
+    },
+    {
+      "name": "revenue_id",
+      "type": "string",
+      "description": "Unique identifier for revenue",
+      "required": true
+    },
+    {
+      "name": "revenue_name",
+      "type": "string",
+      "description": "Name of the revenue",
+      "required": false
+    },
+    {
+      "name": "transaction_id",
+      "type": "string",
+      "description": "Unique identifier for transaction",
+      "required": true
+    },
+    {
+      "name": "transaction_name",
+      "type": "string",
+      "description": "Name of the transaction",
+      "required": false
+    },
+    {
+      "name": "total",
+      "type": "integer",
+      "description": "Total value",
+      "required": true
+    },
+    {
+      "name": "revenue",
+      "type": "decimal",
+      "description": "Revenue value",
+      "required": true
+    },
+    {
+      "name": "date",
+      "type": "date",
+      "description": "Date of the record",
+      "required": true
+    },
+    {
+      "name": "aggregation_level",
+      "type": "string",
+      "description": "Level of aggregation (e.g., daily, by_product)",
+      "required": true
+    },
+    {
+      "name": "created_at",
+      "type": "timestamp",
+      "description": "Timestamp when the record was created",
+      "required": true
+    },
+    {
+      "name": "updated_at",
+      "type": "timestamp",
+      "description": "Timestamp when the record was last updated",
+      "required": true
+    },
+    {
+      "name": "source_system",
+      "type": "string",
+      "description": "Source system from which the data originated",
+      "required": true
+    }
+  ],
+  "metadata": {
+    "name": "Analytical_Data_Product_20250409",
+    "description": "Data product containing information about customer, product, revenue, transaction with total, revenue",
+    "owner": "Data Engineering Team",
+    "tags": [
+      "customer",
+      "product",
+      "revenue",
+      "transaction",
+      "data_product",
+      "analytical"
+    ],
+    "version": "1.0.0",
+    "created_date": "2025-04-09",
+    "update_frequency": "real-time",
+    "retention_period": "3 years",
+    "classification": "internal",
+    "quality_score": 85.0
+  },
+  "access_patterns": [
+    {
+      "name": "default",
+      "description": "Default access pattern for querying the data product",
+      "type": "query"
+    },
+    {
+      "name": "time_based",
+      "description": "Access pattern for real-time data",
+      "type": "time_filter",
+      "time_field": "date"
+    },
+    {
+      "name": "by_customer",
+      "description": "Access pattern filtered by customer",
+      "type": "entity_filter",
+      "entity_field": "customer_id"
+    }
+  ],
+  "storage_format": "parquet",
+  "update_frequency": "real-time",
+  "partitioning_strategy": {
+    "strategy": "by_dimension",
+    "field": "customer_id",
+    "format": "hashed_bucket"
+  },
+  "ingress_process": {
+    "type": "batch",
+    "frequency": "real-time",
+    "source_extraction": {
+      "sources": []
+    },
+    "transformations": [],
+    "load_strategy": {
+      "type": "overwrite_partitions"
+    }
+  },
+  "egress_process": {
+    "access_methods": [
+      {
+        "type": "api",
+        "protocol": "https",
+        "format": "json"
+      }
+    ],
+    "access_patterns": [
+      {
+        "name": "default",
+        "description": "Default access pattern for querying the data product",
+        "type": "query"
+      },
+      {
+        "name": "time_based",
+        "description": "Access pattern for real-time data",
+        "type": "time_filter",
+        "time_field": "date"
+      },
+      {
+        "name": "by_customer",
+        "description": "Access pattern filtered by customer",
+        "type": "entity_filter",
+        "entity_field": "customer_id"
+      }
+    ],
+    "data_api": {
+      "type": "graphql",
+      "paths": [],
+      "filters": []
+    }
+  },
+  "certification": {
+    "timestamp": "2025-04-09 22:15:25",
+    "overall_score": 85.0,
+    "results": {
+      "data_quality": [
+        {
+          "standard": "Mappings complete",
+          "status": "passed",
+          "notes": ""
+        }
+      ],
+      "data_governance": [
+        {
+          "standard": "Ownership defined",
+          "status": "passed",
+          "notes": ""
+        }
+      ],
+      "technical_standards": [
+        {
+          "standard": "Format optimized",
+          "status": "passed",
+          "notes": ""
+        }
+      ],
+      "operational_readiness": [
+        {
+          "standard": "Monitoring in place",
+          "status": "warning",
+          "notes": "Manual review needed"
+        }
+      ]
+    }
+  }
+}

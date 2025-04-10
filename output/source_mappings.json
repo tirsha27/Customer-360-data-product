@@ -1,0 +1,917 @@
+{
+  "customer_id": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "high"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "customer_name": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "high"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "product_id": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "product_name": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "revenue_id": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "revenue_name": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "transaction_id": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "transaction_name": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "total": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "revenue": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "date": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "high"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "aggregation_level": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "created_at": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "updated_at": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  },
+  "source_system": {
+    "status": "matched",
+    "sources": [
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_id",
+        "type": "string",
+        "description": "Unique identifier for customers",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "customer_name",
+        "type": "string",
+        "description": "Full name of customer",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "email",
+        "type": "string",
+        "description": "Email address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "phone",
+        "type": "string",
+        "description": "Phone number",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "address",
+        "type": "string",
+        "description": "Physical address",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "segment",
+        "type": "string",
+        "description": "Customer segment",
+        "match_quality": "medium"
+      },
+      {
+        "system": "CRM",
+        "table": "customers",
+        "attribute": "created_date",
+        "type": "date",
+        "description": "Date when customer was created",
+        "match_quality": "medium"
+      }
+    ]
+  }
+}

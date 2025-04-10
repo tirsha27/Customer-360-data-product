@@ -1,0 +1,167 @@
+[
+  {
+    "target_attribute": "customer_id",
+    "target_type": "string",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "customer_name",
+    "target_type": "string",
+    "required": false,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_name",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "product_id",
+    "target_type": "string",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "product_name",
+    "target_type": "string",
+    "required": false,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "revenue_id",
+    "target_type": "string",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "revenue_name",
+    "target_type": "string",
+    "required": false,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "transaction_id",
+    "target_type": "string",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "transaction_name",
+    "target_type": "string",
+    "required": false,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "total",
+    "target_type": "integer",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "CAST(source_value AS INTEGER)"
+  },
+  {
+    "target_attribute": "revenue",
+    "target_type": "decimal",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "CAST(source_value AS DECIMAL)"
+  },
+  {
+    "target_attribute": "date",
+    "target_type": "date",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "created_date",
+    "source_type": "date",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "aggregation_level",
+    "target_type": "string",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  },
+  {
+    "target_attribute": "created_at",
+    "target_type": "timestamp",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "CAST(source_value AS TIMESTAMP)"
+  },
+  {
+    "target_attribute": "updated_at",
+    "target_type": "timestamp",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "CAST(source_value AS TIMESTAMP)"
+  },
+  {
+    "target_attribute": "source_system",
+    "target_type": "string",
+    "required": true,
+    "mapping_type": "direct",
+    "source_system": "CRM",
+    "source_table": "customers",
+    "source_attribute": "customer_id",
+    "source_type": "string",
+    "transformation": "direct"
+  }
+]

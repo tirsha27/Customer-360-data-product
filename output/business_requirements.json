@@ -1,0 +1,24 @@
+{
+  "entities": [
+    "customer",
+    "product",
+    "revenue",
+    "transaction"
+  ],
+  "metrics": [
+    "total",
+    "revenue"
+  ],
+  "frequency": "real-time",
+  "aggregations": [
+    "sum"
+  ],
+  "filters": [
+    "filter",
+    "group",
+    "region",
+    "category",
+    "age"
+  ],
+  "original_text": "\n        We need a customer analytics dashboard showing real-time purchase patterns,\n        customer segmentation, and lifetime value. Include daily transaction data,\n        customer demographics, and product preferences. Calculate total revenue,\n        purchase frequency, and customer retention metrics. Update daily with\n        filters for region, age group, and product category.\n        "
+}

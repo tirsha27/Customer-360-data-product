@@ -1,0 +1,16 @@
+Target Attribute,Target Type,Required,Mapping Type,Source System,Source Table,Source Attribute,Source Type,Transformation
+customer_id,string,True,direct,CRM,customers,customer_id,string,direct
+customer_name,string,False,direct,CRM,customers,customer_name,string,direct
+product_id,string,True,direct,ERP,products,product_id,string,direct
+product_name,string,False,direct,ERP,products,product_name,string,direct
+transaction_id,string,True,direct,Sales,transactions,transaction_id,string,direct
+transaction_name,string,False,direct,HR,employees,name,string,direct
+revenue_id,string,True,direct,CRM,customers,customer_id,string,direct
+revenue_name,string,False,direct,HR,employees,name,string,direct
+total,integer,True,direct,Sales,transactions,total_amount,decimal,FLOOR(source_value)
+revenue,decimal,True,direct,CRM,customers,customer_id,string,CAST(source_value AS DECIMAL)
+date,date,True,direct,CRM,customers,created_date,date,direct
+aggregation_level,string,True,direct,CRM,customers,customer_id,string,direct
+created_at,timestamp,True,direct,CRM,customers,customer_id,string,"TO_TIMESTAMP(source_value, 'YYYY-MM-DD HH:MI:SS')"
+updated_at,timestamp,True,direct,Sales,transactions,date,date,CAST(source_value AS TIMESTAMP)
+source_system,string,True,direct,CRM,customers,customer_id,string,direct

@@ -1,0 +1,524 @@
+2025-04-09 22:38:41,093 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:38:41,093 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:38:41,093 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:38:41,100 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:38:41,100 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:38:41,100 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:39:17,909 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:39:17,909 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:39:17,909 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:39:17,909 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:39:17,909 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:39:17,917 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:39:17,917 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:39:17,917 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:39:17,917 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:39:17,917 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,793 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-09 22:40:09,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,111 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 09:57:18,125 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:39,936 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:39,936 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:39,936 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:39,942 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:39,942 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:39,942 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:56,043 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:56,043 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:56,043 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:56,043 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:56,043 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:02:56,053 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:56,053 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:56,053 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:56,053 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:02:56,053 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:27:29,275 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:27:29,275 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:27:29,275 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:27:29,279 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:27:29,279 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:27:29,279 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:37:02,447 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:37:02,447 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:37:02,447 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:37:02,453 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:37:02,453 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:37:02,453 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:49:18,581 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:49:18,581 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:49:18,581 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:49:18,590 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:49:18,590 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:49:18,590 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,515 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 10:52:25,538 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:22:23,080 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:22:23,080 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:22:23,080 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:22:23,090 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:22:23,090 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:22:23,090 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,312 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 11:42:20,330 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:32,820 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:32,820 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:32,820 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:32,820 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:32,824 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:32,824 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:32,824 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:32,824 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:39,823 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:39,823 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:39,823 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:39,823 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:39,823 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:39,823 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 14:37:39,834 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:39,834 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:39,834 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:39,834 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:39,834 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 14:37:39,834 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,774 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:08,790 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,140 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 22:49:18,195 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,843 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:11,850 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,347 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:53:22,376 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,915 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-10 23:55:12,961 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,307 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:08:40,328 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,797 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:31:31,808 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,191 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:43:36,210 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,580 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 00:57:33,584 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,889 - [ScriptRunner.scriptThread] - WARNING - LLM features disabled: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
+2025-04-11 01:04:55,895 - [ScriptRunner.scriptThread] - INFO - Analyzing use case text
